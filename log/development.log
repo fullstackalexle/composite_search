@@ -1859,3 +1859,5 @@ Processing by HomeController#composite_search as HTML
 Completed 200 OK in 272ms (Views: 195.1ms | ActiveRecord: 0.0ms | Allocations: 308136)
 
 
+  [1m[35m (195.3ms)[0m  [1m[35mCREATE DATABASE "composite_search_app_development" ENCODING = 'unicode'[0m
+  [1m[35m (89.1ms)[0m  [1m[35mCREATE DATABASE "composite_search_app_test" ENCODING = 'unicode'[0m
