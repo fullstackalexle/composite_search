@@ -1,0 +1,15 @@
+<form id="prime_limiter" name="prime_limiter" style="margin: 25px; text-align: center; font-size: 11px;" action="/composite_search" method="POST">
+	<label for="limit">Input a limiting odd prime number to generate a matrix for:</label> 
+	<input type="number" id="limit" name="limit"
+       min="1" max="999999999">
+    <input type="submit">
+</form>
+<table style="margin: 25px 0; text-align: center; font-size: 11px;">
+	<% @composites.each_with_index do |row, i| %>
+		<tr>
+			<% row.each_with_index do |col, j| %>
+				<td><%= col %></td>
+			<% end %>
+		</tr>
+	<% end %>
+</table>

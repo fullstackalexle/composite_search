@@ -1,0 +1,1804 @@
+Started GET "/" for 127.0.0.1 at 2022-07-11 21:56:09 -0700
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/alexandertungcuule/.rvm/gems/ruby-2.6.0/gems/railties-6.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/alexandertungcuule/.rvm/gems/ruby-2.6.0/gems/railties-6.1.5/lib/rails/templates/rails/welcome/index.html.erb (Duration: 8.1ms | Allocations: 515)
+Completed 200 OK in 34ms (Views: 15.9ms | ActiveRecord: 0.0ms | Allocations: 5664)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:01:33 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/alexandertungcuule/.rvm/gems/ruby-2.6.0/gems/railties-6.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/alexandertungcuule/.rvm/gems/ruby-2.6.0/gems/railties-6.1.5/lib/rails/templates/rails/welcome/index.html.erb (Duration: 5.9ms | Allocations: 233)
+Completed 200 OK in 8ms (Views: 6.8ms | Allocations: 875)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:01:38 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/alexandertungcuule/.rvm/gems/ruby-2.6.0/gems/railties-6.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/alexandertungcuule/.rvm/gems/ruby-2.6.0/gems/railties-6.1.5/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | Allocations: 45)
+Completed 200 OK in 1ms (Views: 0.6ms | Allocations: 342)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:01:49 -0700
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/alexandertungcuule/.rvm/gems/ruby-2.6.0/gems/railties-6.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/alexandertungcuule/.rvm/gems/ruby-2.6.0/gems/railties-6.1.5/lib/rails/templates/rails/welcome/index.html.erb (Duration: 7.7ms | Allocations: 350)
+Completed 200 OK in 28ms (Views: 15.3ms | ActiveRecord: 0.0ms | Allocations: 2791)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:01:51 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/alexandertungcuule/.rvm/gems/ruby-2.6.0/gems/railties-6.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/alexandertungcuule/.rvm/gems/ruby-2.6.0/gems/railties-6.1.5/lib/rails/templates/rails/welcome/index.html.erb (Duration: 12.5ms | Allocations: 372)
+Completed 200 OK in 14ms (Views: 13.4ms | ActiveRecord: 0.0ms | Allocations: 1257)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:01:52 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/alexandertungcuule/.rvm/gems/ruby-2.6.0/gems/railties-6.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/alexandertungcuule/.rvm/gems/ruby-2.6.0/gems/railties-6.1.5/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | Allocations: 45)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 342)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:02:18 -0700
+  
+SyntaxError (/Users/alexandertungcuule/source/Projects/composite_search/config/routes.rb:3: syntax error, unexpected ':', expecting end
+  root: '#home'
+      ^
+/Users/alexandertungcuule/source/Projects/composite_search/config/routes.rb:4: syntax error, unexpected end, expecting end-of-input):
+  
+config/routes.rb:3: syntax error, unexpected ':', expecting end
+config/routes.rb:4: syntax error, unexpected end, expecting end-of-input
+config/routes.rb:3: syntax error, unexpected ':', expecting end
+config/routes.rb:4: syntax error, unexpected end, expecting end-of-input
+config/routes.rb:3: syntax error, unexpected ':', expecting end
+config/routes.rb:4: syntax error, unexpected end, expecting end-of-input
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:02:25 -0700
+  
+SyntaxError (/Users/alexandertungcuule/source/Projects/composite_search/config/routes.rb:3: syntax error, unexpected ':', expecting end
+  root: 'home'
+      ^
+/Users/alexandertungcuule/source/Projects/composite_search/config/routes.rb:4: syntax error, unexpected end, expecting end-of-input):
+  
+config/routes.rb:3: syntax error, unexpected ':', expecting end
+config/routes.rb:4: syntax error, unexpected end, expecting end-of-input
+config/routes.rb:3: syntax error, unexpected ':', expecting end
+config/routes.rb:4: syntax error, unexpected end, expecting end-of-input
+config/routes.rb:3: syntax error, unexpected ':', expecting end
+config/routes.rb:4: syntax error, unexpected end, expecting end-of-input
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:02:55 -0700
+  
+SyntaxError (/Users/alexandertungcuule/source/Projects/composite_search/config/routes.rb:3: syntax error, unexpected ':', expecting end
+  root: 'home#index'
+      ^
+/Users/alexandertungcuule/source/Projects/composite_search/config/routes.rb:4: syntax error, unexpected end, expecting end-of-input):
+  
+config/routes.rb:3: syntax error, unexpected ':', expecting end
+config/routes.rb:4: syntax error, unexpected end, expecting end-of-input
+config/routes.rb:3: syntax error, unexpected ':', expecting end
+config/routes.rb:4: syntax error, unexpected end, expecting end-of-input
+config/routes.rb:3: syntax error, unexpected ':', expecting end
+config/routes.rb:4: syntax error, unexpected end, expecting end-of-input
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:02:57 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/"):
+  
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:02:58 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/"):
+  
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:03:49 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 1579)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | Allocations: 1651)
+Completed 500 Internal Server Error in 3ms (Allocations: 2804)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    1: <table>
+    2: 	<% @composites.each do |row| %>
+    3: 		<tr>
+    4: 			<% row.each do |col| %>
+    5: 				<td><%= col %></td>
+  
+app/views/home/index.html.erb:2
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:04:25 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 1381)
+  Rendered layout layouts/application.html.erb (Duration: 0.9ms | Allocations: 1452)
+Completed 500 Internal Server Error in 2ms (Allocations: 1995)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    1: <table>
+    2: 	<% @composites.each do |row| %>
+    3: 		<tr>
+    4: 			<% row.each do |col| %>
+    5: 				<td><%= col %></td>
+  
+app/views/home/index.html.erb:2
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:04:30 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 1401)
+  Rendered layout layouts/application.html.erb (Duration: 0.9ms | Allocations: 1471)
+Completed 500 Internal Server Error in 2ms (Allocations: 1805)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    1: <table>
+    2: 	<% @composites.each do |row| %>
+    3: 		<tr>
+    4: 			<% row.each do |col| %>
+    5: 				<td><%= col %></td>
+  
+app/views/home/index.html.erb:2
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:04:48 -0700
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.7ms | Allocations: 2006)
+  Rendered layout layouts/application.html.erb (Duration: 3.4ms | Allocations: 2081)
+Completed 500 Internal Server Error in 21ms (ActiveRecord: 0.0ms | Allocations: 5191)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    1: <table>
+    2: 	<% @composites.each do |row| %>
+    3: 		<tr>
+    4: 			<% row.each do |col| %>
+    5: 				<td><%= col %></td>
+  
+app/views/home/index.html.erb:2
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:04:50 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 1408)
+  Rendered layout layouts/application.html.erb (Duration: 0.9ms | Allocations: 1480)
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms | Allocations: 1898)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    1: <table>
+    2: 	<% @composites.each do |row| %>
+    3: 		<tr>
+    4: 			<% row.each do |col| %>
+    5: 				<td><%= col %></td>
+  
+app/views/home/index.html.erb:2
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:04:50 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 1402)
+  Rendered layout layouts/application.html.erb (Duration: 0.9ms | Allocations: 1473)
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms | Allocations: 1810)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    1: <table>
+    2: 	<% @composites.each do |row| %>
+    3: 		<tr>
+    4: 			<% row.each do |col| %>
+    5: 				<td><%= col %></td>
+  
+app/views/home/index.html.erb:2
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:04:51 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 1402)
+  Rendered layout layouts/application.html.erb (Duration: 0.9ms | Allocations: 1473)
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms | Allocations: 1810)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    1: <table>
+    2: 	<% @composites.each do |row| %>
+    3: 		<tr>
+    4: 			<% row.each do |col| %>
+    5: 				<td><%= col %></td>
+  
+app/views/home/index.html.erb:2
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:05:05 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 1493)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/alexandertungcuule/source/Projects/composite_search/public/packs
+[Webpacker] Hash: 4e86e05d5dbda31c6c86
+Version: webpack 4.46.0
+Time: 1027ms
+Built at: 07/11/2022 10:05:08 PM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-7f041c57215f4c597b08.js    121 KiB  application  [emitted] [immutable]  application
+js/application-7f041c57215f4c597b08.js.map    136 KiB  application  [emitted] [dev]        application
+                             manifest.json  364 bytes               [emitted]              
+Entrypoint application = js/application-7f041c57215f4c597b08.js js/application-7f041c57215f4c597b08.js.map
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 492 bytes {application} [built]
+    + 3 hidden modules
+
+  Rendered layout layouts/application.html.erb (Duration: 2547.8ms | Allocations: 19226)
+Completed 200 OK in 2549ms (Views: 2548.5ms | Allocations: 19741)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:05:37 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 1493)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.3ms | Allocations: 5023)
+Completed 200 OK in 6ms (Views: 5.7ms | Allocations: 5442)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:06:02 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 1683)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.8ms | Allocations: 5398)
+Completed 200 OK in 8ms (Views: 7.1ms | Allocations: 6553)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:06:18 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 1678)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.7ms | Allocations: 5394)
+Completed 200 OK in 8ms (Views: 7.1ms | Allocations: 6543)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:07:58 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 1493)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 5021)
+Completed 200 OK in 6ms (Views: 5.5ms | Allocations: 5434)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:08:18 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 1493)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 5002)
+Completed 200 OK in 6ms (Views: 5.8ms | Allocations: 5556)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:08:19 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1493)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.3ms | Allocations: 5021)
+Completed 200 OK in 6ms (Views: 5.6ms | Allocations: 5431)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:08:19 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 1493)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.4ms | Allocations: 5021)
+Completed 200 OK in 6ms (Views: 5.7ms | Allocations: 5434)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:08:20 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1493)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.3ms | Allocations: 5021)
+Completed 200 OK in 6ms (Views: 5.7ms | Allocations: 5431)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:09:15 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1493)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 10.9ms | Allocations: 5002)
+Completed 200 OK in 12ms (Views: 11.5ms | Allocations: 5557)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:09:16 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1493)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 5021)
+Completed 200 OK in 6ms (Views: 5.5ms | Allocations: 5431)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:09:17 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1493)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 5020)
+Completed 200 OK in 6ms (Views: 5.5ms | Allocations: 5430)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:09:17 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1493)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.0ms | Allocations: 5020)
+Completed 200 OK in 6ms (Views: 5.4ms | Allocations: 5430)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:09:28 -0700
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 2ms (Allocations: 2430)
+
+
+  
+NoMethodError (undefined method `unshift!' for #<Array:0x00007fa155925df8>
+Did you mean?  unshift):
+  
+app/controllers/home_controller.rb:38:in `find_composites'
+app/controllers/home_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:09:29 -0700
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 2ms (Allocations: 2422)
+
+
+  
+NoMethodError (undefined method `unshift!' for #<Array:0x00007fa155950940>
+Did you mean?  unshift):
+  
+app/controllers/home_controller.rb:38:in `find_composites'
+app/controllers/home_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:09:44 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.4ms | Allocations: 2226)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | Allocations: 2296)
+Completed 500 Internal Server Error in 3ms (Allocations: 2830)
+
+
+  
+ActionView::Template::Error (undefined method `each' for " ":String):
+    1: <table style="margin: 100px; text-align: center;">
+    2: 	<% @composites.each do |row| %>
+    3: 		<tr>
+    4: 			<% row.each do |col| %>
+    5: 				<td><%= col %></td>
+    6: 			<% end %>
+    7: 		</tr>
+  
+app/views/home/index.html.erb:4
+app/views/home/index.html.erb:2:in `each'
+app/views/home/index.html.erb:2
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:11:00 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.4ms | Allocations: 1744)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.8ms | Allocations: 5460)
+Completed 200 OK in 8ms (Views: 7.2ms | Allocations: 6615)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:11:03 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 1521)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 10.6ms | Allocations: 5048)
+Completed 200 OK in 12ms (Views: 11.1ms | Allocations: 5460)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:11:03 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1521)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.2ms | Allocations: 5049)
+Completed 200 OK in 6ms (Views: 5.6ms | Allocations: 5459)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:11:41 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1762)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.7ms | Allocations: 5477)
+Completed 200 OK in 8ms (Views: 7.1ms | Allocations: 6632)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:14:39 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1752)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.7ms | Allocations: 5467)
+Completed 200 OK in 8ms (Views: 7.0ms | Allocations: 6617)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:14:40 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 1521)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 10.0ms | Allocations: 5048)
+Completed 200 OK in 11ms (Views: 10.4ms | Allocations: 5460)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:14:41 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1521)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 4.9ms | Allocations: 5049)
+Completed 200 OK in 6ms (Views: 5.3ms | Allocations: 5459)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:15:11 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1521)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.3ms | Allocations: 5030)
+Completed 200 OK in 7ms (Views: 6.1ms | Allocations: 6344)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:16:46 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1755)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.7ms | Allocations: 5471)
+Completed 200 OK in 14ms (Views: 7.0ms | Allocations: 7386)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:16:48 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 1521)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.3ms | Allocations: 5048)
+Completed 200 OK in 6ms (Views: 5.7ms | Allocations: 6218)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:17:27 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 1751)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.2ms | Allocations: 5466)
+Completed 200 OK in 8ms (Views: 6.6ms | Allocations: 7375)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:21:13 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 4.7ms | Allocations: 1830)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 15.0ms | Allocations: 5525)
+Completed 200 OK in 18ms (Views: 16.7ms | Allocations: 6686)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:22:08 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 3.6ms | Allocations: 1840)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 11.7ms | Allocations: 5555)
+Completed 200 OK in 15ms (Views: 14.3ms | Allocations: 6704)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:24:17 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.4ms | Allocations: 1845)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 6.2ms | Allocations: 5560)
+Completed 200 OK in 9ms (Views: 7.7ms | Allocations: 6715)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:25:33 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1576)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 5103)
+Completed 200 OK in 6ms (Views: 5.5ms | Allocations: 5513)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:25:44 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1576)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 5086)
+Completed 200 OK in 6ms (Views: 5.7ms | Allocations: 5640)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:25:45 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1576)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 4.9ms | Allocations: 5103)
+Completed 200 OK in 6ms (Views: 5.2ms | Allocations: 5512)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:25:45 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1576)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 4.9ms | Allocations: 5103)
+Completed 200 OK in 6ms (Views: 5.3ms | Allocations: 5512)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:25:46 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 1576)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 6.7ms | Allocations: 5103)
+Completed 200 OK in 8ms (Views: 7.4ms | Allocations: 5512)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:26:15 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1838)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.4ms | Allocations: 5348)
+Completed 200 OK in 7ms (Views: 6.0ms | Allocations: 6500)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:26:34 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1576)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.4ms | Allocations: 5107)
+Completed 200 OK in 7ms (Views: 6.0ms | Allocations: 5661)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:26:51 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1576)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 8.4ms | Allocations: 5086)
+Completed 200 OK in 9ms (Views: 9.0ms | Allocations: 5640)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:26:51 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 3.8ms | Allocations: 1576)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 11.8ms | Allocations: 5103)
+Completed 200 OK in 13ms (Views: 12.2ms | Allocations: 5512)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:26:52 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.5ms | Allocations: 1576)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 17.6ms | Allocations: 5103)
+Completed 200 OK in 19ms (Views: 17.9ms | Allocations: 5513)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:26:52 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 1576)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.3ms | Allocations: 5103)
+Completed 200 OK in 6ms (Views: 5.8ms | Allocations: 5512)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:27:16 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 900)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 4.8ms | Allocations: 4430)
+Completed 200 OK in 6ms (Views: 5.5ms | Allocations: 4983)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:28:13 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1576)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 5086)
+Completed 200 OK in 6ms (Views: 5.8ms | Allocations: 5640)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:29:12 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1576)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 5086)
+Completed 200 OK in 6ms (Views: 5.7ms | Allocations: 5640)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:29:14 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1576)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.0ms | Allocations: 5103)
+Completed 200 OK in 6ms (Views: 5.3ms | Allocations: 5512)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:29:14 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1576)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.0ms | Allocations: 5103)
+Completed 200 OK in 6ms (Views: 5.4ms | Allocations: 5512)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:30:01 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 1576)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.4ms | Allocations: 5086)
+Completed 200 OK in 6ms (Views: 6.0ms | Allocations: 5640)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:30:29 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 1576)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.0ms | Allocations: 5106)
+Completed 200 OK in 6ms (Views: 5.7ms | Allocations: 5659)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:52:13 -0700
+  
+LoadError (cannot load such file -- pry):
+  
+app/controllers/home_controller.rb:50:in `<main>'
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:52:24 -0700
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 1ms (Allocations: 1183)
+
+
+  
+NoMethodError (undefined method `pry' for #<Binding:0x00007fa155b21aa8>
+Did you mean?  try):
+  
+app/controllers/home_controller.rb:59:in `block in find_composites'
+app/controllers/home_controller.rb:58:in `each'
+app/controllers/home_controller.rb:58:in `find_composites'
+app/controllers/home_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:53:03 -0700
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 2ms (Allocations: 1116)
+
+
+  
+NoMethodError (undefined method `pry' for #<Binding:0x00007fa1505978d0>
+Did you mean?  try):
+  
+app/controllers/home_controller.rb:59:in `block in find_composites'
+app/controllers/home_controller.rb:58:in `each'
+app/controllers/home_controller.rb:58:in `find_composites'
+app/controllers/home_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:53:31 -0700
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by HomeController#index as HTML
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:53:31 -0700
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 80012ms (ActiveRecord: 0.0ms | Allocations: 73563)
+
+
+Completed 500 Internal Server Error in 79981ms (ActiveRecord: 0.0ms | Allocations: 63679)
+
+
+  
+Errno::EIO (Input/output error @ io_write - <STDOUT>):
+  
+app/controllers/home_controller.rb:59:in `block in find_composites'
+app/controllers/home_controller.rb:58:in `each'
+app/controllers/home_controller.rb:58:in `find_composites'
+app/controllers/home_controller.rb:3:in `index'
+  
+Errno::EIO (Input/output error @ io_writev - <STDOUT>):
+  
+app/controllers/home_controller.rb:59:in `block in find_composites'
+app/controllers/home_controller.rb:58:in `each'
+app/controllers/home_controller.rb:58:in `find_composites'
+app/controllers/home_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:55:07 -0700
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms | Allocations: 1631)
+
+
+  
+TypeError (nil can't be coerced into Integer):
+  
+app/controllers/home_controller.rb:59:in `*'
+app/controllers/home_controller.rb:59:in `block in find_composites'
+app/controllers/home_controller.rb:58:in `each'
+app/controllers/home_controller.rb:58:in `find_composites'
+app/controllers/home_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:55:28 -0700
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 41561ms (Allocations: 60089)
+
+
+  
+Errno::EIO (Input/output error @ io_writev - <STDOUT>):
+  
+app/controllers/home_controller.rb:59:in `block in find_composites'
+app/controllers/home_controller.rb:58:in `each'
+app/controllers/home_controller.rb:58:in `find_composites'
+app/controllers/home_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:56:14 -0700
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by HomeController#index as HTML
+Started GET "/" for 127.0.0.1 at 2022-07-11 22:59:44 -0700
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:01:25 -0700
+  [1m[35m (7.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 0.0ms | Allocations: 4116)
+
+
+  
+NameError (undefined local variable or method `n' for #<HomeController:0x007fd023311aa0>):
+  
+app/controllers/home_controller.rb:53:in `block in find_composites'
+app/controllers/home_controller.rb:53:in `map'
+app/controllers/home_controller.rb:53:in `find_composites'
+app/controllers/home_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:01:27 -0700
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms | Allocations: 3136)
+
+
+  
+NameError (undefined local variable or method `n' for #<HomeController:0x007fd023cf1818>):
+  
+app/controllers/home_controller.rb:53:in `block in find_composites'
+app/controllers/home_controller.rb:53:in `map'
+app/controllers/home_controller.rb:53:in `find_composites'
+app/controllers/home_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:01:42 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.8ms | Allocations: 1701)
+  Rendered layout layouts/application.html.erb (Duration: 2.0ms | Allocations: 1774)
+Completed 500 Internal Server Error in 5ms (Allocations: 4749)
+
+
+  
+ActionView::Template::Error (undefined method `each_with_index' for nil:NilClass):
+    1: <table style="margin: 100px; text-align: center;">
+    2: 	<% @composites.each_with_index do |row, i| %>
+    3: 		<% unless row == " " %>  
+    4: 			<tr>
+    5: 				<% row.each_with_index do |col, j| %>
+  
+app/views/home/index.html.erb:2
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:04:37 -0700
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 1ms (Allocations: 1316)
+
+
+  
+NoMethodError (undefined method `shift' for #<Prime::EratosthenesGenerator:0x00007fd02425d1f8>):
+  
+app/controllers/home_controller.rb:53:in `find_composites'
+app/controllers/home_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:05:12 -0700
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 1ms (Allocations: 1313)
+
+
+  
+NoMethodError (undefined method `[]' for #<Prime::EratosthenesGenerator:0x00007fd0233d3830>):
+  
+app/controllers/home_controller.rb:53:in `find_composites'
+app/controllers/home_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:07:27 -0700
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 1ms (Allocations: 1346)
+
+
+  
+NoMethodError (undefined method `shift' for #<Prime::EratosthenesGenerator:0x00007fd02327cdb0>):
+  
+app/controllers/home_controller.rb:53:in `block in find_composites'
+app/controllers/home_controller.rb:53:in `map'
+app/controllers/home_controller.rb:53:in `find_composites'
+app/controllers/home_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:07:38 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.8ms | Allocations: 2184)
+  Rendered layout layouts/application.html.erb (Duration: 3.0ms | Allocations: 2256)
+Completed 500 Internal Server Error in 5ms (Allocations: 4553)
+
+
+  
+ActionView::Template::Error (undefined method `each_with_index' for #<String:0x00007fd02423ee38>
+Did you mean?  each_line):
+    1: <table style="margin: 100px; text-align: center;">
+    2: 	<% @composites.each_with_index do |row, i| %>
+    3: 		<% unless row == " " %>  
+    4: 			<tr>
+    5: 				<% row.each_with_index do |col, j| %>
+  
+app/views/home/index.html.erb:2
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:07:59 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1395)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | Allocations: 1467)
+Completed 500 Internal Server Error in 3ms (Allocations: 3761)
+
+
+  
+ActionView::Template::Error (undefined method `each_with_index' for nil:NilClass):
+    1: <table style="margin: 100px; text-align: center;">
+    2: 	<% @composites.each_with_index do |row, i| %>
+    3: 		<% unless row == " " %>  
+    4: 			<tr>
+    5: 				<% row.each_with_index do |col, j| %>
+  
+app/views/home/index.html.erb:2
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:09:42 -0700
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 2ms (Allocations: 3150)
+
+
+  
+NameError (undefined local variable or method `n' for #<HomeController:0x007fd022ad4ea0>):
+  
+app/controllers/home_controller.rb:53:in `find_composites'
+app/controllers/home_controller.rb:3:in `index'
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:09:58 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1416)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | Allocations: 1488)
+Completed 500 Internal Server Error in 3ms (Allocations: 3782)
+
+
+  
+ActionView::Template::Error (undefined method `each_with_index' for nil:NilClass):
+    1: <table style="margin: 100px; text-align: center;">
+    2: 	<% @composites.each_with_index do |row, i| %>
+    3: 		<% unless row == " " %>  
+    4: 			<tr>
+    5: 				<% row.each_with_index do |col, j| %>
+  
+app/views/home/index.html.erb:2
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:18:00 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.8ms | Allocations: 2163)
+  Rendered layout layouts/application.html.erb (Duration: 2.9ms | Allocations: 2235)
+Completed 500 Internal Server Error in 5ms (Allocations: 3802)
+
+
+  
+ActionView::Template::Error (undefined method `each_with_index' for #<String:0x00007fd01fb52088>
+Did you mean?  each_line):
+    1: <table style="margin: 100px; text-align: center;">
+    2: 	<% @composites.each_with_index do |row, i| %>
+    3: 		<% unless row == " " %>  
+    4: 			<tr>
+    5: 				<% row.each_with_index do |col, j| %>
+  
+app/views/home/index.html.erb:2
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:18:54 -0700
+  
+SyntaxError (/Users/alexandertungcuule/source/Projects/composite_search/app/controllers/home_controller.rb:54: syntax error, unexpected end, expecting '}'):
+  
+app/controllers/home_controller.rb:54: syntax error, unexpected end, expecting '}'
+app/controllers/home_controller.rb:54: syntax error, unexpected end, expecting '}'
+app/controllers/home_controller.rb:54: syntax error, unexpected end, expecting '}'
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:19:08 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 854)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 9.3ms | Allocations: 6618)
+Completed 200 OK in 11ms (Views: 10.0ms | Allocations: 8150)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:20:08 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 1060)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.6ms | Allocations: 4776)
+Completed 200 OK in 9ms (Views: 7.2ms | Allocations: 6798)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:21:11 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 1009)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.6ms | Allocations: 4724)
+Completed 200 OK in 8ms (Views: 6.9ms | Allocations: 6739)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:24:06 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 4.6ms | Allocations: 4268)
+  Rendered layout layouts/application.html.erb (Duration: 4.7ms | Allocations: 4340)
+Completed 500 Internal Server Error in 7ms (Allocations: 6461)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `limit' for #<ActionView::Base:0x007fd01fc77d50>
+Did you mean?  @limit):
+    1: <table style="margin: 100px; text-align: center;">
+    2: 	<th>
+    3: 		<% base_primes = Prime.each(limit) do |prime| %>
+    4: 			<td><%= prime %></td>
+    5: 		<% end %>
+    6: 	</th>
+  
+app/views/home/index.html.erb:3
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:24:16 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1460)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 6.5ms | Allocations: 5310)
+Completed 200 OK in 9ms (Views: 7.9ms | Allocations: 7341)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:26:01 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.8ms | Allocations: 1551)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 19.6ms | Allocations: 5268)
+Completed 200 OK in 22ms (Views: 21.1ms | Allocations: 7286)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:26:19 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.6ms | Allocations: 1467)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 6.1ms | Allocations: 5182)
+Completed 200 OK in 9ms (Views: 7.6ms | Allocations: 7204)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:26:20 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 1203)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.4ms | Allocations: 4731)
+Completed 200 OK in 7ms (Views: 5.8ms | Allocations: 6009)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:26:20 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 1203)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.3ms | Allocations: 4730)
+Completed 200 OK in 7ms (Views: 5.7ms | Allocations: 6007)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:27:26 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1463)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 6.2ms | Allocations: 5178)
+Completed 200 OK in 9ms (Views: 7.6ms | Allocations: 7195)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:27:27 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 1203)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.4ms | Allocations: 4730)
+Completed 200 OK in 7ms (Views: 5.8ms | Allocations: 6008)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:27:34 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.6ms | Allocations: 1189)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 6.7ms | Allocations: 4904)
+Completed 200 OK in 10ms (Views: 8.4ms | Allocations: 6921)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:27:43 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1188)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 6.1ms | Allocations: 4903)
+Completed 200 OK in 9ms (Views: 7.5ms | Allocations: 6920)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:27:44 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 933)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.2ms | Allocations: 4460)
+Completed 200 OK in 6ms (Views: 5.6ms | Allocations: 5738)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:27:44 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 933)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.6ms | Allocations: 4460)
+Completed 200 OK in 7ms (Views: 6.0ms | Allocations: 5737)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:27:45 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 933)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.2ms | Allocations: 4461)
+Completed 200 OK in 6ms (Views: 5.6ms | Allocations: 5739)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:28:57 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 1126)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.9ms | Allocations: 4842)
+Completed 200 OK in 9ms (Views: 7.3ms | Allocations: 6864)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:29:09 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 1122)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.8ms | Allocations: 4837)
+Completed 200 OK in 8ms (Views: 7.1ms | Allocations: 6854)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:29:10 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 879)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.0ms | Allocations: 4406)
+Completed 200 OK in 6ms (Views: 5.5ms | Allocations: 5684)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:29:11 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 879)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.3ms | Allocations: 4406)
+Completed 200 OK in 7ms (Views: 5.8ms | Allocations: 5683)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:29:49 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.1ms | Allocations: 1113)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 7.8ms | Allocations: 4828)
+Completed 200 OK in 11ms (Views: 10.0ms | Allocations: 6845)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:30:07 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 1115)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.8ms | Allocations: 4830)
+Completed 200 OK in 8ms (Views: 7.1ms | Allocations: 6847)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:30:41 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.6ms | Allocations: 1451)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 6.3ms | Allocations: 5166)
+Completed 200 OK in 9ms (Views: 7.7ms | Allocations: 7183)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:31:18 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.6ms | Allocations: 1455)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 6.0ms | Allocations: 5170)
+Completed 200 OK in 9ms (Views: 7.4ms | Allocations: 7193)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:31:38 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1179)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 6.0ms | Allocations: 4894)
+Completed 200 OK in 9ms (Views: 7.4ms | Allocations: 6911)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:32:07 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1450)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.6ms | Allocations: 5165)
+Completed 200 OK in 8ms (Views: 6.9ms | Allocations: 7182)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-11 23:32:16 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.4ms | Allocations: 1179)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.9ms | Allocations: 4894)
+Completed 200 OK in 8ms (Views: 7.2ms | Allocations: 6911)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-12 00:45:33 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 14.7ms | Allocations: 11122)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 24.0ms | Allocations: 14778)
+Completed 200 OK in 30ms (Views: 24.7ms | Allocations: 26232)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-12 00:48:00 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 1887)
+  Rendered layout layouts/application.html.erb (Duration: 1.3ms | Allocations: 1959)
+Completed 500 Internal Server Error in 15ms (Allocations: 14003)
+
+
+  
+ActionView::Template::Error (undefined method `[]' for nil:NilClass):
+     5: 	<% @composites.each_with_index do |row, i| %>
+     6: 		<tr>
+     7: 			<% row.each_with_index do |col, j| %>
+     8: 				<td><%= @base_primes[i] %>    <%= col %></td>
+     9: 			<% end %>
+    10: 		</tr>
+    11: 	<% end %>
+  
+app/views/home/index.html.erb:8
+app/views/home/index.html.erb:7:in `each'
+app/views/home/index.html.erb:7:in `each_with_index'
+app/views/home/index.html.erb:7
+app/views/home/index.html.erb:5:in `each'
+app/views/home/index.html.erb:5:in `each_with_index'
+app/views/home/index.html.erb:5
+Started GET "/" for 127.0.0.1 at 2022-07-12 00:48:13 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 21.7ms | Allocations: 11293)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 29.5ms | Allocations: 15147)
+Completed 200 OK in 36ms (Views: 30.9ms | Allocations: 27102)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-12 00:48:32 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 10.8ms | Allocations: 11038)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 15.6ms | Allocations: 14753)
+Completed 200 OK in 22ms (Views: 16.9ms | Allocations: 26698)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-12 00:50:25 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.4ms | Allocations: 2747)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 6.7ms | Allocations: 6402)
+Completed 200 OK in 9ms (Views: 7.3ms | Allocations: 9746)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-12 00:50:37 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.8ms | Allocations: 2852)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 7.4ms | Allocations: 6529)
+Completed 200 OK in 10ms (Views: 8.1ms | Allocations: 9979)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-12 00:51:06 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.7ms | Allocations: 3037)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 7.3ms | Allocations: 6752)
+Completed 200 OK in 10ms (Views: 8.6ms | Allocations: 10692)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-12 00:53:21 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 3.0ms | Allocations: 3032)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 7.8ms | Allocations: 6747)
+Completed 200 OK in 11ms (Views: 9.1ms | Allocations: 10680)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-12 00:53:34 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 3.1ms | Allocations: 3037)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 8.1ms | Allocations: 6753)
+Completed 200 OK in 18ms (Views: 15.9ms | Allocations: 10691)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-12 00:54:03 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.6ms | Allocations: 3032)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 6.8ms | Allocations: 6747)
+Completed 200 OK in 10ms (Views: 8.0ms | Allocations: 10681)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-12 00:54:14 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 3.0ms | Allocations: 3032)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 7.7ms | Allocations: 6747)
+Completed 200 OK in 11ms (Views: 9.0ms | Allocations: 10680)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 17:05:41 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 3.6ms | Allocations: 3042)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 21.2ms | Allocations: 6737)
+Completed 200 OK in 31ms (Views: 24.5ms | Allocations: 10682)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 17:08:30 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 3.4ms | Allocations: 3038)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 14.8ms | Allocations: 6753)
+Completed 200 OK in 20ms (Views: 17.9ms | Allocations: 10686)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 17:08:52 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 10.3ms | Allocations: 3038)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 15.4ms | Allocations: 6759)
+Completed 200 OK in 20ms (Views: 17.9ms | Allocations: 10693)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 17:14:49 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 3.1ms | Allocations: 3038)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 8.9ms | Allocations: 6732)
+Completed 200 OK in 12ms (Views: 10.4ms | Allocations: 10676)
+
+
+Started POST "/composite_search" for 127.0.0.1 at 2022-07-13 17:14:57 -0700
+Processing by HomeController#composite_search as HTML
+  Parameters: {"limit"=>"175"}
+Can't verify CSRF token authenticity.
+Completed 422 Unprocessable Entity in 2ms (Allocations: 479)
+
+
+  
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  
+actionpack (6.1.5) lib/action_controller/metal/request_forgery_protection.rb:211:in `handle_unverified_request'
+actionpack (6.1.5) lib/action_controller/metal/request_forgery_protection.rb:243:in `handle_unverified_request'
+actionpack (6.1.5) lib/action_controller/metal/request_forgery_protection.rb:238:in `verify_authenticity_token'
+activesupport (6.1.5) lib/active_support/callbacks.rb:427:in `block in make_lambda'
+activesupport (6.1.5) lib/active_support/callbacks.rb:198:in `block (2 levels) in halting'
+actionpack (6.1.5) lib/abstract_controller/callbacks.rb:34:in `block (2 levels) in <module:Callbacks>'
+activesupport (6.1.5) lib/active_support/callbacks.rb:199:in `block in halting'
+activesupport (6.1.5) lib/active_support/callbacks.rb:512:in `block in invoke_before'
+activesupport (6.1.5) lib/active_support/callbacks.rb:512:in `each'
+activesupport (6.1.5) lib/active_support/callbacks.rb:512:in `invoke_before'
+activesupport (6.1.5) lib/active_support/callbacks.rb:115:in `block in run_callbacks'
+activesupport (6.1.5) lib/active_support/callbacks.rb:137:in `run_callbacks'
+actionpack (6.1.5) lib/abstract_controller/callbacks.rb:41:in `process_action'
+actionpack (6.1.5) lib/action_controller/metal/rescue.rb:22:in `process_action'
+actionpack (6.1.5) lib/action_controller/metal/instrumentation.rb:34:in `block in process_action'
+activesupport (6.1.5) lib/active_support/notifications.rb:203:in `block in instrument'
+activesupport (6.1.5) lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+activesupport (6.1.5) lib/active_support/notifications.rb:203:in `instrument'
+actionpack (6.1.5) lib/action_controller/metal/instrumentation.rb:33:in `process_action'
+actionpack (6.1.5) lib/action_controller/metal/params_wrapper.rb:249:in `process_action'
+activerecord (6.1.5) lib/active_record/railties/controller_runtime.rb:27:in `process_action'
+actionpack (6.1.5) lib/abstract_controller/base.rb:165:in `process'
+actionview (6.1.5) lib/action_view/rendering.rb:39:in `process'
+actionpack (6.1.5) lib/action_controller/metal.rb:190:in `dispatch'
+actionpack (6.1.5) lib/action_controller/metal.rb:254:in `dispatch'
+actionpack (6.1.5) lib/action_dispatch/routing/route_set.rb:50:in `dispatch'
+actionpack (6.1.5) lib/action_dispatch/routing/route_set.rb:33:in `serve'
+actionpack (6.1.5) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (6.1.5) lib/action_dispatch/journey/router.rb:32:in `each'
+actionpack (6.1.5) lib/action_dispatch/journey/router.rb:32:in `serve'
+actionpack (6.1.5) lib/action_dispatch/routing/route_set.rb:842:in `call'
+rack (2.2.4) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.4) lib/rack/etag.rb:27:in `call'
+rack (2.2.4) lib/rack/conditional_get.rb:40:in `call'
+rack (2.2.4) lib/rack/head.rb:12:in `call'
+actionpack (6.1.5) lib/action_dispatch/http/permissions_policy.rb:22:in `call'
+actionpack (6.1.5) lib/action_dispatch/http/content_security_policy.rb:19:in `call'
+rack (2.2.4) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.4) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (6.1.5) lib/action_dispatch/middleware/cookies.rb:689:in `call'
+activerecord (6.1.5) lib/active_record/migration.rb:601:in `call'
+actionpack (6.1.5) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (6.1.5) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (6.1.5) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (6.1.5) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.1.5) lib/action_dispatch/middleware/actionable_exceptions.rb:18:in `call'
+actionpack (6.1.5) lib/action_dispatch/middleware/debug_exceptions.rb:29:in `call'
+web-console (4.2.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.2.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.1.5) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.1.5) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.1.5) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.1.5) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (6.1.5) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (6.1.5) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (6.1.5) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.1.5) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.1.5) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.4) lib/rack/method_override.rb:24:in `call'
+rack (2.2.4) lib/rack/runtime.rb:22:in `call'
+activesupport (6.1.5) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.1.5) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.1.5) lib/action_dispatch/middleware/static.rb:24:in `call'
+rack (2.2.4) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.1.5) lib/action_dispatch/middleware/host_authorization.rb:148:in `call'
+rack-mini-profiler (2.3.4) lib/mini_profiler/profiler.rb:393:in `call'
+webpacker (5.4.3) lib/webpacker/dev_server_proxy.rb:25:in `perform_request'
+rack-proxy (0.7.2) lib/rack/proxy.rb:67:in `call'
+railties (6.1.5) lib/rails/engine.rb:539:in `call'
+puma (5.6.2) lib/puma/configuration.rb:252:in `call'
+puma (5.6.2) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.2) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.2) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.2) lib/puma/server.rb:441:in `process_client'
+puma (5.6.2) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2022-07-13 17:15:35 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.8ms | Allocations: 2847)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 10.7ms | Allocations: 6357)
+Completed 200 OK in 13ms (Views: 11.3ms | Allocations: 9713)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 17:15:37 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.7ms | Allocations: 2847)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 8.1ms | Allocations: 6374)
+Completed 200 OK in 10ms (Views: 8.4ms | Allocations: 9555)
+
+
+Started POST "/composite_search" for 127.0.0.1 at 2022-07-13 17:15:39 -0700
+Processing by HomeController#composite_search as HTML
+  Parameters: {"limit"=>"175"}
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1337)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | Allocations: 1407)
+Completed 500 Internal Server Error in 43772ms (Allocations: 47660)
+
+
+  
+ActionView::Template::Error (undefined method `each_with_index' for nil:NilClass):
+     5:     <input type="submit">
+     6: </form>
+     7: <table style="margin: 25px; text-align: center; font-size: 11px;">
+     8: 	<% @composites.each_with_index do |row, i| %>
+     9: 		<tr>
+    10: 			<% row.each_with_index do |col, j| %>
+    11: 				<td><%= col %></td>
+  
+app/views/home/index.html.erb:8
+app/controllers/home_controller.rb:11:in `composite_search'
+Started POST "/composite_search" for 127.0.0.1 at 2022-07-13 17:16:28 -0700
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by HomeController#composite_search as HTML
+  Parameters: {"limit"=>"175"}
+Started GET "/" for 127.0.0.1 at 2022-07-13 17:16:31 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 9.2ms | Allocations: 3160)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 37.9ms | Allocations: 8907)
+Completed 200 OK in 55ms (Views: 49.5ms | ActiveRecord: 0.0ms | Allocations: 13911)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 17:16:32 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 6.1ms | Allocations: 2847)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 27.9ms | Allocations: 6376)
+Completed 200 OK in 32ms (Views: 28.4ms | ActiveRecord: 0.0ms | Allocations: 9561)
+
+
+Started POST "/composite_search" for 127.0.0.1 at 2022-07-13 17:16:35 -0700
+Processing by HomeController#composite_search as HTML
+  Parameters: {"limit"=>"175"}
+Completed 500 Internal Server Error in 4498ms (ActiveRecord: 0.0ms | Allocations: 8939)
+
+
+  
+TypeError (String can't be coerced into Integer):
+  
+app/controllers/home_controller.rb:22:in `+'
+app/controllers/home_controller.rb:22:in `find_odd_nums'
+app/controllers/home_controller.rb:11:in `composite_search'
+Started GET "/" for 127.0.0.1 at 2022-07-13 17:16:52 -0700
+Completed 500 Internal Server Error in 66162ms (ActiveRecord: 0.0ms | Allocations: 187846)
+
+
+  
+TypeError (String can't be coerced into Integer):
+  
+app/controllers/home_controller.rb:22:in `+'
+app/controllers/home_controller.rb:22:in `find_odd_nums'
+app/controllers/home_controller.rb:11:in `composite_search'
+Started POST "/composite_search" for 127.0.0.1 at 2022-07-13 17:17:35 -0700
+Started GET "/" for 127.0.0.1 at 2022-07-13 17:17:35 -0700
+Started GET "/" for 127.0.0.1 at 2022-07-13 17:17:35 -0700
+Processing by HomeController#index as HTML
+Started GET "/" for 127.0.0.1 at 2022-07-13 17:17:35 -0700
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.6ms | Allocations: 2847)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 12.2ms | Allocations: 6363)
+Completed 200 OK in 15ms (Views: 13.1ms | Allocations: 9819)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 17:17:35 -0700
+Processing by HomeController#composite_search as HTML
+  Parameters: {"limit"=>"175"}
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 6.6ms | Allocations: 7959)
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.3ms | Allocations: 2847)
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.3ms | Allocations: 2847)
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.1ms | Allocations: 2847)
+  Rendered home/index.html.erb within layouts/application (Duration: 6.3ms | Allocations: 7983)
+[Webpacker] Everything's up-to-date. Nothing to do
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 23.7ms | Allocations: 30021)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 25ms (Views: 24.2ms | Allocations: 33620)
+
+
+  Rendered layout layouts/application.html.erb (Duration: 38.7ms | Allocations: 49527)
+Completed 200 OK in 43ms (Views: 39.8ms | Allocations: 58448)
+
+
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 29.8ms | Allocations: 38107)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 32ms (Views: 30.9ms | Allocations: 41782)
+
+
+  Rendered layout layouts/application.html.erb (Duration: 20.4ms | Allocations: 22493)
+Completed 200 OK in 22ms (Views: 21.3ms | Allocations: 26174)
+
+
+  Rendered layout layouts/application.html.erb (Duration: 23.2ms | Allocations: 26666)
+Completed 200 OK in 25ms (Views: 23.9ms | Allocations: 30122)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 17:17:41 -0700
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 4.2ms | Allocations: 3160)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 38.1ms | Allocations: 8909)
+Completed 200 OK in 62ms (Views: 42.1ms | ActiveRecord: 0.0ms | Allocations: 14680)
+
+
+Started POST "/composite_search" for 127.0.0.1 at 2022-07-13 17:17:45 -0700
+Processing by HomeController#composite_search as HTML
+  Parameters: {"limit"=>"175"}
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 10.2ms | Allocations: 7959)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 18.5ms | Allocations: 11488)
+Completed 200 OK in 23ms (Views: 19.0ms | ActiveRecord: 0.0ms | Allocations: 19776)
+
+
+Started POST "/composite_search" for 127.0.0.1 at 2022-07-13 17:27:15 -0700
+Processing by HomeController#composite_search as HTML
+  Parameters: {"limit"=>"999999999"}
+Started GET "/" for 127.0.0.1 at 2022-07-13 18:26:04 -0700
+Started GET "/" for 127.0.0.1 at 2022-07-13 18:28:00 -0700
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 4.2ms | Allocations: 3160)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 23.5ms | Allocations: 8908)
+Completed 200 OK in 47ms (Views: 27.9ms | ActiveRecord: 0.0ms | Allocations: 14605)
+
+
+Started POST "/composite_search" for 127.0.0.1 at 2022-07-13 18:44:42 -0700
+Processing by HomeController#composite_search as HTML
+  Parameters: {"limit"=>"299"}
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 22.3ms | Allocations: 22839)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 29.3ms | Allocations: 26366)
+Completed 200 OK in 76ms (Views: 31.5ms | Allocations: 49532)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 18:45:04 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 3.0ms | Allocations: 2847)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 8.1ms | Allocations: 6374)
+Completed 200 OK in 10ms (Views: 8.5ms | Allocations: 9554)
+
+
+Started GET "/composite_search" for 127.0.0.1 at 2022-07-13 18:45:07 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/composite_search"):
+  
+Started GET "/" for 127.0.0.1 at 2022-07-13 18:45:09 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.8ms | Allocations: 2847)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 8.4ms | Allocations: 6376)
+Completed 200 OK in 10ms (Views: 8.8ms | Allocations: 9559)
+
+
+Started POST "/composite_search" for 127.0.0.1 at 2022-07-13 18:45:10 -0700
+Processing by HomeController#composite_search as HTML
+  Parameters: {"limit"=>"299"}
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 35.1ms | Allocations: 22839)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 39.3ms | Allocations: 26367)
+Completed 200 OK in 51ms (Views: 39.8ms | Allocations: 49532)
+
+
+Started GET "/composite_search" for 127.0.0.1 at 2022-07-13 18:52:55 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/composite_search"):
+  
+Started GET "/" for 127.0.0.1 at 2022-07-13 18:52:56 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 4.2ms | Allocations: 3038)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 10.1ms | Allocations: 6754)
+Completed 200 OK in 15ms (Views: 12.4ms | Allocations: 10681)
+
+
+Started POST "/composite_search" for 127.0.0.1 at 2022-07-13 18:53:00 -0700
+Processing by HomeController#composite_search as HTML
+  Parameters: {"limit"=>"299"}
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 21.5ms | Allocations: 22839)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 25.7ms | Allocations: 26365)
+Completed 200 OK in 36ms (Views: 26.1ms | Allocations: 49529)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 18:57:57 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.7ms | Allocations: 2847)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 7.0ms | Allocations: 6374)
+Completed 200 OK in 9ms (Views: 7.4ms | Allocations: 9556)
+
+
+Started GET "/composite_search" for 127.0.0.1 at 2022-07-13 18:57:58 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/composite_search"):
+  
+Started GET "/" for 127.0.0.1 at 2022-07-13 18:58:00 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.8ms | Allocations: 2847)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 7.4ms | Allocations: 6374)
+Completed 200 OK in 9ms (Views: 7.8ms | Allocations: 9554)
+
+
+Started POST "/composite_search" for 127.0.0.1 at 2022-07-13 18:58:25 -0700
+Processing by HomeController#composite_search as HTML
+  Parameters: {"limit"=>"777"}
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 127.6ms | Allocations: 152138)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 132.4ms | Allocations: 155665)
+Completed 200 OK in 247ms (Views: 132.9ms | Allocations: 308129)
+
+
