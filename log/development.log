@@ -1861,3 +1861,48 @@ Completed 200 OK in 272ms (Views: 195.1ms | ActiveRecord: 0.0ms | Allocations: 3
 
   [1m[35m (195.3ms)[0m  [1m[35mCREATE DATABASE "composite_search_app_development" ENCODING = 'unicode'[0m
   [1m[35m (89.1ms)[0m  [1m[35mCREATE DATABASE "composite_search_app_test" ENCODING = 'unicode'[0m
+Started POST "/composite_search" for 127.0.0.1 at 2022-07-14 09:08:05 -0700
+Processing by HomeController#composite_search as HTML
+  Parameters: {"limit"=>"87"}
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 3.4ms | Allocations: 2477)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 43.0ms | Allocations: 19259)
+Completed 200 OK in 59ms (Views: 51.3ms | ActiveRecord: 0.0ms | Allocations: 24842)
+
+
+Started GET "/composite_search" for 127.0.0.1 at 2022-07-14 09:09:12 -0700
+  
+ActionController::RoutingError (No route matches [GET] "/composite_search"):
+  
+Started GET "/" for 127.0.0.1 at 2022-07-14 09:09:14 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 3.3ms | Allocations: 3037)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 8.8ms | Allocations: 6728)
+Completed 200 OK in 13ms (Views: 10.2ms | ActiveRecord: 0.0ms | Allocations: 10628)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-14 09:09:14 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 3.2ms | Allocations: 2847)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 7.9ms | Allocations: 6334)
+Completed 200 OK in 10ms (Views: 8.4ms | ActiveRecord: 0.0ms | Allocations: 9511)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-14 09:09:38 -0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 7.9ms | Allocations: 3042)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 13.0ms | Allocations: 6718)
+Completed 200 OK in 17ms (Views: 14.6ms | ActiveRecord: 0.0ms | Allocations: 10609)
+
+
